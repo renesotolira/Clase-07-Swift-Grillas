@@ -17,6 +17,7 @@
 		90263FE22AE711F100BCAD8A /* FixedGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90263FE12AE711F100BCAD8A /* FixedGridView.swift */; };
 		90263FE42AE7145C00BCAD8A /* AdaptiveGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90263FE32AE7145C00BCAD8A /* AdaptiveGridView.swift */; };
 		90263FE62AE7170D00BCAD8A /* FlexibleGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90263FE52AE7170D00BCAD8A /* FlexibleGridView.swift */; };
+		90263FE82AE71F5700BCAD8A /* GeometryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90263FE72AE71F5700BCAD8A /* GeometryView.swift */; };
 		905BDEE32ADDCF1600E73836 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 905BDEE22ADDCF1600E73836 /* SearchView.swift */; };
 		905BDEE52ADDCFBC00E73836 /* MyGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 905BDEE42ADDCFBC00E73836 /* MyGridView.swift */; };
 		905BDEE72ADDD0CE00E73836 /* GridElementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 905BDEE62ADDD0CE00E73836 /* GridElementView.swift */; };
@@ -35,6 +36,7 @@
 		90263FE12AE711F100BCAD8A /* FixedGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixedGridView.swift; sourceTree = "<group>"; };
 		90263FE32AE7145C00BCAD8A /* AdaptiveGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveGridView.swift; sourceTree = "<group>"; };
 		90263FE52AE7170D00BCAD8A /* FlexibleGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlexibleGridView.swift; sourceTree = "<group>"; };
+		90263FE72AE71F5700BCAD8A /* GeometryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryView.swift; sourceTree = "<group>"; };
 		905BDEE22ADDCF1600E73836 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		905BDEE42ADDCFBC00E73836 /* MyGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGridView.swift; sourceTree = "<group>"; };
 		905BDEE62ADDD0CE00E73836 /* GridElementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridElementView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				90263FE12AE711F100BCAD8A /* FixedGridView.swift */,
 				90263FE32AE7145C00BCAD8A /* AdaptiveGridView.swift */,
 				90263FE52AE7170D00BCAD8A /* FlexibleGridView.swift */,
+				90263FE72AE71F5700BCAD8A /* GeometryView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				905BDEE32ADDCF1600E73836 /* SearchView.swift in Sources */,
 				9006DC672AD4711E00F64653 /* ListasModelosApp.swift in Sources */,
 				905BDEE52ADDCFBC00E73836 /* MyGridView.swift in Sources */,
+				90263FE82AE71F5700BCAD8A /* GeometryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
